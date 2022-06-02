@@ -1,1 +1,1 @@
-# Computer-Science-for-JavaScript-Challenge-Regex-Tutorial-main
+# Computer Science for JavaScript Challenge: Regex Tutorial
